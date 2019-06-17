@@ -2,7 +2,7 @@
 This is a script to keep specified folders organized by moving set file types to its designated folders.
 
 
-*Note:* If same filenames are found, they the newer file will be renamed accordingly 
+*Note:* If same filenames are found, the newer file will be renamed accordingly.
 
 
 | file_type | folder |
